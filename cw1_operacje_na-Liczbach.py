@@ -9,3 +9,4 @@ suma = number1 + number2
 potęgowanie = number1 ** number2
 
 print(f"Suma Twoich liczb {number1} i {number2} to {suma}")
+print(f"{number2} do potęgi {number1} daje {potęgowanie}")
