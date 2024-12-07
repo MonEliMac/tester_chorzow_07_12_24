@@ -1,0 +1,15 @@
+#lista owocow
+
+owoce = ["banan", "jabłko", "mandarynka"]
+
+#słownik z cenami
+
+ceny = {"banan": 4, "jabłko": 2, "mandarynka": 5}
+
+#wyswietlanie wynikow
+
+#print ceny
+
+ulubiony = owoce[1] #jablko
+
+print(f"Mój ulubiony owoc to {ulubiony} i kosztuje {ceny[ulubiony]} zł.")
